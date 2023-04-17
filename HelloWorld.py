@@ -1,3 +1,1 @@
-print("Hello world",
-"DCPE", "DevOps for AIoT"
-)
+print("Hello world DCPE Devops for AIoT")
